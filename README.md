@@ -3,6 +3,8 @@
 ## Overview  
 **Coastal Vertical Structures Designer** is a standalone Windows application (`.exe`) for the design and stability analysis of vertical coastal structures such as seawalls and caisson breakwaters. It uses the well-established **Goda wave force formula** to compute design loads.
 
+To download the **.EXE** file, visit this [link](https://drive.google.com/file/d/1GqaxNnod_319n2YhyvUYSnawCfyrBS79/view?usp=sharing).
+
 ---
 
 ## Input Parameters
